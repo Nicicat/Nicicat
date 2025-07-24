@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicicat
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning program design
+- 🌱 I just completed my Software Developement Higher Certificate course
 - 💞️ I’m looking to collaborate on not sure yet...testing the water 
 - 📫 How to reach me nicolerademeyer13@gmail.com
 
